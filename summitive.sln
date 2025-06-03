@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35506.116 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "summitive", "summitive.csproj", "{49C0357A-672E-4405-B7C5-4C164FB1E0AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "summitive", "summitive.csproj", "{62EE0D0E-9EC9-4D99-BBE0-D06FF4AB3090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{49C0357A-672E-4405-B7C5-4C164FB1E0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49C0357A-672E-4405-B7C5-4C164FB1E0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49C0357A-672E-4405-B7C5-4C164FB1E0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49C0357A-672E-4405-B7C5-4C164FB1E0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EE0D0E-9EC9-4D99-BBE0-D06FF4AB3090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EE0D0E-9EC9-4D99-BBE0-D06FF4AB3090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EE0D0E-9EC9-4D99-BBE0-D06FF4AB3090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EE0D0E-9EC9-4D99-BBE0-D06FF4AB3090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
